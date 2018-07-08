@@ -113,5 +113,12 @@ untuk OSN’n paling lambat dua bulan sebelum OSN’n.
 * **SC13.** SC OSN’n diharuskan untuk mengumumkan pembahasan soal OSN’n pada situs resmi OSN’n paling lambat satu bulan setelah OSN’n.
 
 * **SC14.** SC OSN’n diharuskan untuk mengumumkan kelengkapan soal OSN’n pada situs resmi OSN’n paling lambat satu bulan setelah OSN’n.
+    * **SC14.1.** Kelengkapan soal setidaknya mengandung:
+        * Solusi resmi
+        * Generator kasus uji
+        * Berkas kasus uji
+        * Solusi untuk setiap subsoal.
+        * Scorer, jika dibutuhkan.
+        * Communicator, jika dibutuhkan.
 
 * **SC15.** SC OSN’n diharuskan untuk mengumumkan hasil akhir OSN’n pada situs resmi OSN’n paling lambat satu bulan setelah OSN’n.
