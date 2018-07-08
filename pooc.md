@@ -1,7 +1,9 @@
 # Panduan POOC Olimpiade Sains Nasional bidang Informatika
 
-1. [Singkatan](##Singkatan)
-1. [PJJ and Open OSN Coordinator (POOC)](##PJJ and Open OSN Coordinator (POOC))
+1. [Singkatan](#singkatan)
+1. [PJJ and Open OSN Coordinator (POOC)](#pjj-and-open-osn-coordinator-pooc)
+1. [Tugas POOC sebagai PJJ Coordinator](#tugas-pooc-sebagai-pjj-coordinator)
+1. [Tugas POOC sebagai Open OSN Coordinator](#tugas-pooc-sebagai-open-osn-coordinator)
 
 
 ## Singkatan

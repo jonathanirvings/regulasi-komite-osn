@@ -1,7 +1,7 @@
 # Rangkuman Waktu Kerja Komite Olimpiade Sains Nasional bidang Informatika
 
-1. [Singkatan](##Singkatan)
-1. [Rangkuman Waktu Kerja](##Rangkuman Waktu Kerja)
+1. [Singkatan](#singkatan)
+1. [Rangkuman Waktu Kerja](#rangkuman-waktu-kerja)
 
 
 ## Singkatan

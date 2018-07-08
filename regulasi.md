@@ -1,11 +1,11 @@
 # Regulasi Komite Olimpiade Sains Nasional bidang Informatika
 
-1. [Singkatan](##Singkatan)
-1. [Main Scientific Committee (MSC)](##Main Scientific Committee (MSC))
-1. [Scientific Committee (SC)](##Scientific Committee (SC))
-1. [Main Technical Committee (MTC)](##Main Technical Committee (MTC))
-1. [Technical Committee (TC)](##Technical Committee (TC))
-1. [PJJ and Open OSN Coordinator (POOC)](##PJJ and Open OSN Coordinator (POOC))
+1. [Singkatan](#singkatan)
+1. [Main Scientific Committee (MSC)](#main-scientific-committe-msc)
+1. [Scientific Committee (SC)](#scientific-committee-sc)
+1. [Main Technical Committee (MTC)](#main-technical-committee-mtc)
+1. [Technical Committee (TC)](#technical-committee-tc)
+1. [PJJ and Open OSN Coordinator (POOC)](#pjj-and-open-osn-coordinator-pooc)
 
 
 ## Singkatan

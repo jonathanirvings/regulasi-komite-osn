@@ -1,8 +1,8 @@
 # Panduan MTC dan TC Olimpiade Sains Nasional bidang Informatika
 
-1. [Singkatan](##Singkatan)
-1. [Main Technical Committee (MTC)](##Main Technical Committee (MTC))
-1. [Technical Committee (TC)](##Technical Committee (TC))
+1. [Singkatan](#singkatan)
+1. [Main Technical Committee (MTC)](#main-technical-committee-mtc)
+1. [Technical Committee (TC)](#technical-committee-tc)
 
 
 ## Singkatan
