@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+
 # Rangkuman Waktu Kerja Komite Olimpiade Sains Nasional bidang Informatika
 
 1. [Singkatan](#singkatan)
