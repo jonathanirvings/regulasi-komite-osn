@@ -87,7 +87,9 @@ untuk OSN’n paling lambat dua bulan sebelum OSN’n.
         * Solusi untuk setiap subsoal.
             * Solusi ini digunakan untuk menguji bahwa solusi suboptimal akan mendapatkan nilai yang diharapkan.
         * Scorer, jika dibutuhkan.
-            * Jika mungkin saja terdapat lebih dari satu keluaran yang benar untuk setiap masukan, maka scorer soal harus disiapkan. Scorer adalah program yang digunakan untuk menguji apakah sebuah keluaran yang diberikan benar. Scorer harus mengikuti format [scorer tcframe](http://docs.tcframe.org/en/stable/topic-guides/styles.html?highlight=scorer#scorer).
+            * Jika mungkin saja terdapat lebih dari satu keluaran yang benar untuk setiap masukan, maka scorer soal harus disiapkan. Scorer adalah program yang digunakan untuk menguji apakah sebuah keluaran yang diberikan benar. Scorer harus mengikuti format [scorer tcframe](http://docs.tcframe.org/en/stable/topic-guides/styles.html#scorer).
+        * Communicator, jika dibutuhkan.
+            * Jika soal bertipe interaktif, maka dibutuhkan kode communicator yang berkomunikasi dengan kode peserta. Communicator harus mengikuti format [communicator tcframe](http://docs.tcframe.org/en/latest/topic-guides/styles.html#communicator).
 
 * **SC8.** MSC OSN’n diharuskan untuk mengunggah seluruh soal OSN’n ke sistem online judge OSN’n paling lambat satu minggu sebelum OSN’n.
 
