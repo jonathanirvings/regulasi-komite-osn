@@ -7,4 +7,4 @@ Terakhir diperbaharui:
 * Konten: 6 Februari 2018
 * Formatting: 8 Juli 2018
 
-Dipelihara oleh Jonathan Irvin Gunawan (@jonathanirvings)
+Dipelihara oleh toki-osn-regulation@googlegroups.com
