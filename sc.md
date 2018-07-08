@@ -68,19 +68,19 @@ untuk OSN’n paling lambat dua bulan sebelum OSN’n.
 * **SC7.** SC OSN’n diharuskan untuk menyelesaikan kelengkapan soal OSN’n paling lambat satu minggu sebelum OSN’n.
     * **SC7.1.** Kelengkapan soal setidaknya mengandung:
         * Solusi resmi
-              * Solusi ini adalah solusi yang digunakan untuk menghasilkan keluaran juri dari setiap masukan yang ada.
+            * Solusi ini adalah solusi yang digunakan untuk menghasilkan keluaran juri dari setiap masukan yang ada.
         * Solusi kedua
-              * Solusi ini adalah solusi yang digunakan untuk menguji bahwa seluruh keluaran juri benar.
-              * Solusi ini harus dibuat secara independen dengan solusi resmi.
+            * Solusi ini adalah solusi yang digunakan untuk menguji bahwa seluruh keluaran juri benar.
+            * Solusi ini harus dibuat secara independen dengan solusi resmi.
         * Generator kasus uji
-              * Generator kasus uji harus menggunakan [tcframe](https://github.com/tcframe/tcframe).
+            * Generator kasus uji harus menggunakan [tcframe](https://github.com/tcframe/tcframe).
         * Deskripsi soal
-              * Jika soal bertipe batch atau output only, deskripsi soal harus mengandung format input, format output, contoh input, contoh output, batasan untuk setiap subsoal, dan nilai untuk setiap subsoal.
-              * Jika soal bertipe interaktif, deskripsi soal harus mengandung format interaksi, contoh interaksi, batasan untuk setiap subsoal, dan nilai untuk setiap subsoal.
+            * Jika soal bertipe batch atau output only, deskripsi soal harus mengandung format input, format output, contoh input, contoh output, batasan untuk setiap subsoal, dan nilai untuk setiap subsoal.
+            * Jika soal bertipe interaktif, deskripsi soal harus mengandung format interaksi, contoh interaksi, batasan untuk setiap subsoal, dan nilai untuk setiap subsoal.
         * Solusi untuk setiap subsoal.
-              * Solusi ini digunakan untuk menguji bahwa solusi suboptimal akan mendapatkan nilai yang diharapkan.
+            * Solusi ini digunakan untuk menguji bahwa solusi suboptimal akan mendapatkan nilai yang diharapkan.
         * Scorer, jika dibutuhkan.
-              * Jika mungkin saja terdapat lebih dari satu keluaran yang benar untuk setiap masukan, maka scorer soal harus disiapkan. Scorer adalah program yang digunakan untuk menguji apakah sebuah keluaran yang diberikan benar. Scorer harus mengikuti format [scorer tcframe](http://docs.tcframe.org/en/stable/topic-guides/styles.html?highlight=scorer#scorer).
+            * Jika mungkin saja terdapat lebih dari satu keluaran yang benar untuk setiap masukan, maka scorer soal harus disiapkan. Scorer adalah program yang digunakan untuk menguji apakah sebuah keluaran yang diberikan benar. Scorer harus mengikuti format [scorer tcframe](http://docs.tcframe.org/en/stable/topic-guides/styles.html?highlight=scorer#scorer).
 
 * **SC8.** MSC OSN’n diharuskan untuk mengunggah seluruh soal OSN’n ke sistem online judge OSN’n paling lambat satu minggu sebelum OSN’n.
 
