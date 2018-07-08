@@ -37,25 +37,25 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
     <td>Satu bulan setelah OSN’n-1</td>
     
     <td><ul>
-    <li> Kedua anggota MSC OSN’n-1 memilih anggota MSC baru yang akan memulai masa jabatannya pada OSN’n.
-    <li> Kedua anggota MSC OSN’n memilih salah satu anggotanya sebagai Ketua SC OSN’n.
+    <li>Kedua anggota MSC OSN’n-1 memilih anggota MSC baru yang akan memulai masa jabatannya pada OSN’n.</li>
+    <li>Kedua anggota MSC OSN’n memilih salah satu anggotanya sebagai Ketua SC OSN’n.</li>
     </ul></td>
     
     <td><ul>
-    <li> Anggota MTC OSN’n-1 memilih anggota MTC baru yang akan memulai masa jabatannya pada OSN’n.
+    <li>Anggota MTC OSN’n-1 memilih anggota MTC baru yang akan memulai masa jabatannya pada OSN’n.</li>
     </ul></td>
     
     <td>Kosong</td>
-<tr/>
+</tr>
 <tr>
     <td>2.5 bulan sebelum OSN’n</td>
 
     <td><ul>
-    <li> MSC OSN’n diharuskan untuk mengumumkan panggilan untuk posisi anggota sementara SC OSN’n.
+    <li>MSC OSN’n diharuskan untuk mengumumkan panggilan untuk posisi anggota sementara SC OSN’n.</li>
     </ul></td>
 
     <td><ul>
-    <li> MTC OSN’n diharuskan untuk mengumumkan panggilan untuk posisi anggota sementara TC OSN’n.
+    <li>MTC OSN’n diharuskan untuk mengumumkan panggilan untuk posisi anggota sementara TC OSN’n.</li>
     </ul></td>
 
     <td>Kosong</td>
@@ -64,16 +64,16 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
     <td>Dua bulan sebelum OSN’n</td>
 
     <td><ul>
-    <li> Ketua SC OSN’n mengirimkan pemanggilan pengumpulan ide soal untuk OSN’n.
-    <li> MSC OSN’n memilih anggota sementara SC OSN’n.
-    <li> MSC OSN’n memilih anggota POOC OSN’n.
-    <li> MSC mengumumkan silabus OSN’n.
+    <li>Ketua SC OSN’n mengirimkan pemanggilan pengumpulan ide soal untuk OSN’n.</li>
+    <li>MSC OSN’n memilih anggota sementara SC OSN’n.</li>
+    <li>MSC OSN’n memilih anggota POOC OSN’n.</li>
+    <li>MSC mengumumkan silabus OSN’n.</li>
     </ul></td>
 
     <td><ul>
-    <li> Anggota MTC OSN’n memilih anggota sementara TC OSN’n.
-    <li> MTC mempersiapkan situs resmi OSN’n.
-    <li> Meletakan silabus OSN’n pada situs resmi OSN’n.
+    <li>Anggota MTC OSN’n memilih anggota sementara TC OSN’n.</li>
+    <li>MTC mempersiapkan situs resmi OSN’n.</li>
+    <li>Meletakan silabus OSN’n pada situs resmi OSN’n.</li>
     </ul></td>
 
     <td>Kosong</td>
@@ -84,12 +84,12 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
     <td>Kosong</td>
 
     <td><ul>
-    <li> Meletakan pengumuman kegiatan PJJ OSN’n pada situs resmi OSN’n.
+    <li>Meletakan pengumuman kegiatan PJJ OSN’n pada situs resmi OSN’n.</li>
     </ul></td>
 
     <td><ul>
-    <li> Mengumpulkan supervisor PJJ OSN’n beserta data lengkapnya.
-    <li> Mengumumkan kegiatan PJJ OSN’n.
+    <li>Mengumpulkan supervisor PJJ OSN’n beserta data lengkapnya.</li>
+    <li>Mengumumkan kegiatan PJJ OSN’n.</li>
     </ul></td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
     <td>Kosong</td>
 
     <td><ul>
-    <li> Memastikan bahwa seluruh supervisor telah memperkenalkan diri kepada seluruh peserta yang diawasinya.
+    <li>Memastikan bahwa seluruh supervisor telah memperkenalkan diri kepada seluruh peserta yang diawasinya.</li>
     </ul></td>
 </tr>
 <tr>
@@ -111,19 +111,19 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
     <td>Kosong</td>
 
     <td><ul>
-    <li> Memastikan bahwa kegiatan PJJ OSN’n dimulai.
+    <li>Memastikan bahwa kegiatan PJJ OSN’n dimulai.</li>
     </ul></td>
 </tr>
 <tr>
     <td>Satu bulan sebelum OSN’n</td>
 
     <td><ul>
-    <li> Pengumpulan ide soal untuk OSN’n ditutup.
-    <li> Mengumumkan peraturan kompetisi OSN’n.
+    <li>Pengumpulan ide soal untuk OSN’n ditutup.</li>
+    <li>Mengumumkan peraturan kompetisi OSN’n.</li>
     </ul></td>
 
     <td><ul>
-    <li> Meletakan peraturan kompetisi OSN’n pada situs resmi OSN’n.
+    <li>Meletakan peraturan kompetisi OSN’n pada situs resmi OSN’n.</li>
     </ul></td>
 
     <td>Kosong</td>
@@ -132,12 +132,12 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
     <td>Tiga minggu sebelum OSN’n</td>
 
     <td><ul>
-    <li> Memfinalisasi soal OSN’n.
-    <li> Melaporkan soal OSN’n kepada Pembina TOKI
+    <li>Memfinalisasi soal OSN’n.</li>
+    <li>Melaporkan soal OSN’n kepada Pembina TOKI</li>
     </ul></td>
 
     <td><ul>
-    <li> Mempersiapkan sistem online judge OSN’n yang dapat diakses secara online.
+    <li>Mempersiapkan sistem online judge OSN’n yang dapat diakses secara online.</li>
     </ul></td>
 
     <td>Kosong</td>
@@ -146,33 +146,33 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
     <td>Satu minggu sebelum OSN’n</td>
 
     <td><ul>
-    <li> Menyelesaikan kelengkapan soal OSN’n.
-    <li> MSC mengunggah seluruh soal OSN’n ke sistem online judge OSN’n.
+    <li>Menyelesaikan kelengkapan soal OSN’n.</li>
+    <li>MSC mengunggah seluruh soal OSN’n ke sistem online judge OSN’n.</li>
     </ul></td>
 
     <td><ul>
-    <li> Meletakan spesifikasi komputer peserta dan komputer juri pada situs resmi OSN’n.
-    <li> Meletakan pengumuman Open Contest OSN’n pada situs resmi OSN’n.
-    <li> Meletakan peraturan kompetisi Open Contest OSN’n pada situs resmi OSN’n.
+    <li>Meletakan spesifikasi komputer peserta dan komputer juri pada situs resmi OSN’n.</li>
+    <li>Meletakan pengumuman Open Contest OSN’n pada situs resmi OSN’n.</li>
+    <li>Meletakan peraturan kompetisi Open Contest OSN’n pada situs resmi OSN’n.</li>
     </ul></td>
 
     <td><ul>
-    <li> Mengumumkan Open Contest OSN’n.
-    <li> Mengumumkan peraturan kompetisi Open Contest OSN’n.
+    <li>Mengumumkan Open Contest OSN’n.</li>
+    <li>Mengumumkan peraturan kompetisi Open Contest OSN’n.</li>
     </ul></td>
 </tr>
 <tr>
     <td>Satu hari sebelum OSN’n</td>
 
     <td><ul>
-    <li> Menguji (testing) soal OSN’n.
-    <li> Memperbaiki soal sesuai umpan balik testing.
+    <li>Menguji (testing) soal OSN’n.</li>
+    <li>Memperbaiki soal sesuai umpan balik testing.</li>
     </ul></td>
 
     <td>Kosong</td>
 
     <td><ul>
-    <li> Melaporkan seluruh hasil dari kegiatan PJJ OSN’n kepada SC OSN’n dan Pembina TOKI.
+    <li>Melaporkan seluruh hasil dari kegiatan PJJ OSN’n kepada SC OSN’n dan Pembina TOKI.</li>
     </ul></td>
 </tr>
 <tr>
@@ -181,10 +181,10 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
     <td>Kosong</td>
 
     <td><ul>
-    <li> Mempersiapkan sistem live scoreboard OSN’n.
-    <li> Mempersiapkan sistem online judge OSN’n yang akan digunakan untuk OSN’n.
-    <li> Memastikan jaringan kompetisi OSN’n bekerja seperti seharusnya.
-    <li> Memastikan seluruh software yang dijanjikan pada situs resmi OSN’n tersedia pada seluruh komputer peserta OSN’n.
+    <li>Mempersiapkan sistem live scoreboard OSN’n.</li>
+    <li>Mempersiapkan sistem online judge OSN’n yang akan digunakan untuk OSN’n.</li>
+    <li>Memastikan jaringan kompetisi OSN’n bekerja seperti seharusnya.</li>
+    <li>Memastikan seluruh software yang dijanjikan pada situs resmi OSN’n tersedia pada seluruh komputer peserta OSN’n.</li>
     </ul></td>
 
     <td>Kosong</td>
@@ -194,7 +194,7 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
     <td>Kosong</td>
 
     <td><ul>
-    <li> Mempersiapkan kontes, memasukan seluruh peserta OSN’n dalam kontes tersebut, dan menghasilkan daftar password jika diperlukan.
+    <li>Mempersiapkan kontes, memasukan seluruh peserta OSN’n dalam kontes tersebut, dan menghasilkan daftar password jika diperlukan.</li>
     </ul></td>
 
     <td>Kosong</td>
@@ -203,11 +203,11 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
     <td>1 jam sebelum setiap hari kompetisi OSN’n</td>
 
     <td><ul>
-    <li> Memasang soal pada kontes OSN’n.
+    <li>Memasang soal pada kontes OSN’n.</li>
     </ul></td>
 
     <td><ul>
-    <li> Memastikan seluruh komputer dalam keadaan yang sama dan bersih.
+    <li>Memastikan seluruh komputer dalam keadaan yang sama dan bersih.</li>
     </ul></td>
 
     <td>Kosong</td>
@@ -216,34 +216,34 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
     <td>Satu minggu setelah OSN’n</td>
 
     <td><ul>
-    <li> Mengembalikan seluruh ide soal yang tidak digunakan untuk OSN’n kepada penulisnya.
+    <li>Mengembalikan seluruh ide soal yang tidak digunakan untuk OSN’n kepada penulisnya.</li>
     </ul></td>
 
     <td><ul>
-    <li> Meletakan hasil Open Contest OSN’n pada situs resmi OSN’n.
+    <li>Meletakan hasil Open Contest OSN’n pada situs resmi OSN’n.</li>
     </ul></td>
 
     <td><ul>
-    <li> Mengumumkan hasil Open Contest OSN’n.
+    <li>Mengumumkan hasil Open Contest OSN’n.</li>
     </ul></td>
 </tr>
 <tr>
     <td>Satu bulan setelah OSN’n</td>
 
     <td><ul>
-    <li> Kedua anggota MSC OSN’n memilih anggota MSC baru yang akan memulai masa jabatannya pada OSN’n+1.
-    <li> Kedua anggota MSC OSN’n+1 memilih salah satu anggotanya sebagai Ketua SC OSN’n+1.
-    <li> Mengumumkan pembahasan soal OSN’n.
-    <li> Mengumumkan kelengkapan soal OSN’n.
-    <li> Mengumumkan hasil akhir OSN’n.
+    <li>Kedua anggota MSC OSN’n memilih anggota MSC baru yang akan memulai masa jabatannya pada OSN’n+1.</li>
+    <li>Kedua anggota MSC OSN’n+1 memilih salah satu anggotanya sebagai Ketua SC OSN’n+1.</li>
+    <li>Mengumumkan pembahasan soal OSN’n.</li>
+    <li>Mengumumkan kelengkapan soal OSN’n.</li>
+    <li>Mengumumkan hasil akhir OSN’n.</li>
     </ul></td>
 
     <td><ul>
-    <li> Anggota MTC OSN’n memilih anggota MTC baru yang akan memulai masa jabatannya pada OSN’n+1.
-    <li> Meletakan pembahasan soal OSN’n pada situs resmi OSN’n.
-    <li> Meletakan kelengkapan soal OSN’n pada situs resmi OSN’n.
-    <li> Meletakan hasil akhir OSN’n pada situs resmi OSN’n.
-    <li> Meletakan berkas kontes OSN’n pada TLX.
+    <li>Anggota MTC OSN’n memilih anggota MTC baru yang akan memulai masa jabatannya pada OSN’n+1.</li>
+    <li>Meletakan pembahasan soal OSN’n pada situs resmi OSN’n.</li>
+    <li>Meletakan kelengkapan soal OSN’n pada situs resmi OSN’n.</li>
+    <li>Meletakan hasil akhir OSN’n pada situs resmi OSN’n.</li>
+    <li>Meletakan berkas kontes OSN’n pada TLX.</li>
     </ul></td>
 
     <td>Kosong</td>
