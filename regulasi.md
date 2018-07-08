@@ -31,7 +31,7 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
 <tr><td>TOKI</td><td>Tim Olimpiade Komputer Indonesia</td></tr>
 </table>
 
-## Main Scientific Committe (MSC)
+## Main Scientific Committee (MSC)
 
 * **MSC1.** **Main Scientific Committee (MSC)** adalah komite jangka panjang yang terdiri dari dua anggota. Setiap anggota memiliki periode dua tahun.
     * **MSC1.1.** Pada OSN’n, salah satu dari anggota MSC akan mengakhiri masa jabatannya pada OSN’n, sedangkan anggota MSC lainnya akan mengakhiri masa jabatannya pada OSN’n+1.
