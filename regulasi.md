@@ -101,7 +101,7 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
 
 ## PJJ and Open OSN Coordinator (POOC)
 
-* **POOC1.** **PJJ and Open OSN Coordinator (POOC)** *adalah komite yang terdiri dari satu anggota. Anggota tersebut memiliki periode satu tahun.
+* **POOC1.** **PJJ and Open OSN Coordinator (POOC)** *adalah komite yang terdiri dari satu atau dua anggota. Anggota tersebut memiliki periode satu tahun.
     * **POOC1.1.** Anggota POOC OSN’n akan ditentukan oleh MSC OSN’n paling lambat dua bulan sebelum OSN’n dengan persetujuan Pembina TOKI.
     * **POOC1.2.** Anggota POOC OSN’n harus telah menyelesaikan pendidikan SMA/sederajat pada tahun n-1.
 

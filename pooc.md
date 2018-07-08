@@ -80,6 +80,7 @@ Untuk kemudahan dokumen ini, segala frase Olimpiade Sains Nasional atau singkata
 ## Tugas POOC sebagai Open OSN Coordinator
 
 * **OOC1.** POOC OSN’n diharuskan untuk mengumumkan Open OSN’n pada situs resmi OSN’n paling lambat satu minggu sebelum OSN’n.
+    * **OOC1.1.** POOC OSN'n juga diharuskan untuk menambahkan acara Open OSN'n pada [kalender TOKI](http://toki.id/calendar).
 
 * **OOC2.** POOC OSN’n diharuskan untuk mengumumkan peraturan kompetisi Open OSN’n pada situs resmi OSN’n paling lambat satu minggu sebelum OSN’n.
     * **OOC2.1.** Peraturan kompetisi Open OSN’n serupa dengan peraturan kompetisi OSN’n, namun berbeda pada beberapa hal yang bersifat onsite.
