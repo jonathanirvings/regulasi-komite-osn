@@ -1,7 +1,7 @@
 # Panduan MSC dan SC Olimpiade Sains Nasional bidang Informatika
 
 1. [Singkatan](#singkatan)
-1. [Main Scientific Committee (MSC)](#main-scientific-committe-msc)
+1. [Main Scientific Committee (MSC)](#main-scientific-committee-msc)
 1. [Scientific Committee (SC)](#scientific-committee-sc)
 
 
